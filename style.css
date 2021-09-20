@@ -1,0 +1,28 @@
+h1 {
+  color: #000066;
+  font-family: font-family: 'Bebas Neue', cursive;
+}
+
+h4 { 
+  font-family: 'Oswald', sans-serif;
+ font-family: Oswald, sans-serif;
+  margin-bottom: 0;
+}
+
+#ingredients {  font-family: 'Anton', sans-serif;
+  color: #ff0066;
+  
+  
+}
+
+}
+
+ul, ol {
+  margin-top: 0;
+}
+
+.copyright {
+  font-family: Arial;
+  font-size: 9px;
+  font-style: italic;
+}
